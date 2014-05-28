@@ -1,0 +1,42 @@
+Sacramento City Approved Budget Fiscal Year 2012-13 metadata  
+
+Description:
+This is metadata for this set of tables extracted from approved city budget for 2012-13 pdf document.
+
+These tables were extracted from the following pdf document:
+
+FY2012-13ApprovedBudget.pdf
+
+Dublin Core Metadata Elements  
+
+Contributor 
+Coverage 2012-2013
+Creator Sacramento City, DEPARTMENT OF FINANCE BUDGET, POLICY and STRATEGIC PLANNING DIVISION
+Date	 11/09/12
+Description	Sacramento City approved budget in PDF format for fiscal year 2012-13
+Format csv
+source	 http://www.cityofsacramento.org/finance/budget/approved-budget-2012-13/FY2012-13ApprovedBudget.pdf
+Publisher Sacramento City 
+Subject	 Detailed city Approved budget
+Title CITY OF SACRAMENTO FISCAL YEAR 2012/13 BUDGET
+Type City budget
+
+Table naming convention:
+The prefix on the document name contains three parts
+CSFB = Sacramento City fiscal budget
+2012-13 = budgetary year
+S6 = budget section = S
+
+example: CSFB-2012-13-S05-Mayor Council budgeted_expenses.csv 
+Is Sacramento City fiscal budget for 2012-13 budgetary year section 6 Mayor Council budget expenditures by type
+
+City Division Budgets Elements
+Every city organizational unit, referred to here as a division, has in its budgets information  summarized with for separate summary tables; budgeted expenses, funding, organization budget, and organization FTE. These four summary tables will appear as separate csv files for each division, the title of the budget summary is appended as a suffix onto the base name for each budget division. Here budget division is used to cover all general organizational elements found in the organizational chart found on pp. 3  of Approved Budget as Amended through July 31, 2012 Fiscal Year 2012/13 City of Sacramento document. 
+
+Example budget file names:
+CSFB-2012-13-S08-City Manager budgeted_expenses.csv
+CSFB-2012-13-S08-City Manager funding.csv
+CSFB-2012-13-S08-City Manager organization_budget.csv
+CSFB-2012-13-S08-City Manager organization_FTE.csv
+
+Budgeted expenses and funding come from the "department budget summary" section of the source pdf document. Expenses gives expense costs broken down by budgetary types. Funding describes the funding source for each department by funding types. Organization budget is derived from the "division budgets summary" section and gives expenses broken down by sub department divisions. Organization FTE describes staffing levels given in FTEs and is extracted from the "Staffing Level" section of the source PDF for each division. FTE is an abbreviation for Fractional Time Equivalent referring to fractions of personnel years, .5FTE is equivalent to a half time yearly position.
