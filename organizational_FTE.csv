@@ -1,0 +1,76 @@
+iddenormalize_budget,org_path,dep,org_clas,organizational_FTE,previousy_actual,lasty_approved,lasty_amended,thisy_approved,thisy_amended,change_lastthis_amd
+14,/,"Mayor Council",Admin,"Independent Budget Analyst",3,3,3,0,0,-3
+15,/,"Mayor Council",Admin,"Mayor Council",30,30,28,28,25,-3
+16,/,"Mayor Council",Admin,"Office of the City Auditor",4,4,4,4,4,0
+34,/,"City Attorney",Admin,"City Attorney",48,46,46,47,47,1
+48,/,"City Clerk",Admin,"City Clerk",10,10,10,10,10,0
+49,/,"City Clerk",Admin,"Mayor/Council Operations",0,0,0,0,3,3
+68,/,"City Manager",Admin,"Office of Emergency Planning",3,3,3,0,0,-3
+69,/,"City Manager",Admin,"Office of Government Affairs",3,3,3,3,3,0
+70,/,"City Manager",Admin,"Office of the City Manager",9,8,8,8,8,0
+71,/,"City Manager",Admin,"Public Safety Accountability",1,1,1,1,1,0
+90,/,"City Treasurer",Admin,"City Treasurer",12,12,12,12,12,0
+112,Manager,"Community Development",Operations,Administration,31,30,30,13,14,-16
+113,Manager,"Community Development",Operations,Building,30,28,29,30,31,2
+114,Manager,"Community Development",Operations,"Code Enforcement",67,61,60,67,70,10
+115,Manager,"Community Development",Operations,"Customer Service",7,7,7,8,8,1
+116,Manager,"Community Development",Operations,Planning,39,40,40,41,42,2
+156,Manager,"Convention Culture & Leisure",Operations,"CCL Administration",10,10,10,10,10,0
+157,Manager,"Convention Culture & Leisure",Operations,"Convention Center Complex",83,83,83,82,83,0
+158,Manager,"Convention Culture & Leisure",Operations,"Crocker Art Museum",6,6,6,6,6,0
+159,Manager,"Convention Culture & Leisure",Operations,Golf,59,59,1,1,1,0
+160,Manager,"Convention Culture & Leisure",Operations,"Metro Arts Commission",10,9,9,9,9,0
+161,Manager,"Convention Culture & Leisure",Operations,"Old City Cemetery",1,1,1,1,1,0
+162,Manager,"Convention Culture & Leisure",Operations,"Old Sacramento",9,9,9,9,9,0
+163,Manager,"Convention Culture & Leisure",Operations,"Sacramento Archives",4,3,3,3,3,0
+164,Manager,"Convention Culture & Leisure",Operations,"Sacramento Marina",8,8,8,8,8,0
+165,Manager,"Convention Culture & Leisure",Operations,"Sacramento Zoo",6,6,6,5,6,0
+188,Manager,"Economic Development",Operations,Administration,1,1,1,2,2,1
+189,Manager,"Economic Development",Operations,"Citywide Development",11,8,8,5,5,-3
+190,Manager,"Economic Development",Operations,"Downtown Development",6,5,5,4,4,-1
+220,Manager,Finance,Support,Accounting,28,28,28,30,31,3
+221,Manager,Finance,Support,"Budget Office",6,6,6,6,6,0
+222,Manager,Finance,Support,"Finance Administration",2,2,2,2,2,0
+223,Manager,Finance,Support,Revenue,36,38,38,37,38,0
+240,Manager,Fire,Operations,"Office of Admin. Services",50,48,48,38,48,0
+241,Manager,Fire,Operations,"Office of Operations",578,532,533,481,533,-1
+242,Manager,Fire,Operations,"Office of the Fire Chief",10,9,9,9,9,0
+272,Manager,"General Services",Support,311,23,23,23,23,23,0
+273,Manager,"General Services",Support,"Animal Care Services",33,32,32,34,34,2
+274,Manager,"General Services",Support,"Facilities & Real Prop Mgmt",70,64,64,62,63,-1
+275,Manager,"General Services",Support,"Fleet Management",104,91,91,86,87,-4
+276,Manager,"General Services",Support,"Office of the Director",9,8,8,8,9,1
+277,Manager,"General Services",Support,"Procurement Services",8,7,7,6,6,-1
+278,Manager,"General Services",Support,"Solid Waste and Recycling",0,0,160,150,153,-7
+308,Manager,"Human Resources",Support,"HR Administration",24,23,23,23,23,0
+309,Manager,"Human Resources",Support,"Labor Relations",7,6,6,6,6,0
+310,Manager,"Human Resources",Support,"Risk Management",20,20,20,20,20,0
+311,Manager,"Human Resources",Support,"Workers' Compensation",20,20,20,20,20,0
+336,Manager,"Information Technology",Support,"Applications & Data Mgmt",23,6,6,6,6,0
+337,Manager,"Information Technology",Support,"Enterprise Business Sys - Division",0,10,10,10,10,0
+338,Manager,"Information Technology",Support,"Geographic Information Systems",2,4,4,4,4,0
+339,Manager,"Information Technology",Support,"IT Customer Service -Division",0,7,7,7,7,0
+340,Manager,"Information Technology",Support,"Technical Support Services Divisio",25,16,16,15,16,0
+341,Manager,"Information Technology",Support,"Technology Administration Division",4,6,6,6,6,0
+372,Manager,"Parks and Recreation",Operations,"Administrative Services",14,11,11,11,11,0
+373,Manager,"Parks and Recreation",Operations,"Children & Community Rec",380,347,347,339,342,-5
+374,Manager,"Parks and Recreation",Operations,"Park Maintenance Services",78,71,71,69,71,0
+375,Manager,"Parks and Recreation",Operations,"Park Planning and Development",13,12,12,8,8,-4
+376,Manager,"Parks and Recreation",Operations,"Recreation Operations",49,38,38,37,39,1
+377,Manager,"Parks and Recreation",Operations,"Teens & Community Recreation",115,101,93,90,93,0
+396,Manager,Police,Operations,"Office of Field Services",608,506,526,428,489,-37
+397,Manager,Police,Operations,"Office of Investigations",255,207,220,215,217,-3
+398,Manager,Police,Operations,"Office of Operational Services",136,131,135,158,160,25
+399,Manager,Police,Operations,"Office of the Chief",68,56,81,46,48,-33
+432,Manager,"Public Works",Operations,"Engineering Services",80,80,80,77,81,1
+433,Manager,"Public Works",Operations,"Maintenance Services Division",130,130,130,87,87,-43
+434,Manager,"Public Works",Operations,"Office Of The Director",12,12,12,12,12,0
+435,Manager,"Public Works",Operations,"Parking Services",123,123,123,121,123,0
+436,Manager,"Public Works",Operations,"Transportation Division",26,26,26,67,69,43
+437,Manager,"Public Works",Operations,"Urban Forestry",37,37,37,31,37,0
+484,Manager,Utilities,Operations,"Business Services",55,55,55,53,55,0
+485,Manager,Utilities,Operations,"Engineering Services",85,85,85,74,75,-10
+486,Manager,Utilities,Operations,"Field Services",220,220,220,223,224,4
+487,Manager,Utilities,Operations,"Office of the Director",29,28,28,7,8,-20
+488,Manager,Utilities,Operations,"Plant Services",150,151,151,149,150,-1
+489,Manager,Utilities,Operations,"Solid Waste Services",160,160,0,0,0,0
