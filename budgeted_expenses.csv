@@ -1,0 +1,85 @@
+iddenormalize_budget,org_path,dep,org_clas,budgeted_expenses,previousy_actual,lasty_approved,lasty_amended,thisy_approved,thisy_amended,change_lastthis_amd
+1,/,"Mayor Council",Admin,"Employee Services",3730825,3747831,3751609,3633169,3435867,-315742
+2,/,"Mayor Council",Admin,"Labor/Supply Offset",-76975,-98150,-98150,-98500,500,98650
+3,/,"Mayor Council",Admin,"Other Services and Supplies",313594,762554,761554,649659,492026,-269528
+4,/,"Mayor Council",Admin,Property,0,3350,903623,2010,2010,-901613
+17,/,"City Attorney",Admin,"Employee Services",6103395,6027729,6027729,5942088,6067304,39575
+18,/,"City Attorney",Admin,"Labor/Supply Offset",-12230,1480,1480,1480,1480,0
+19,/,"City Attorney",Admin,"Other Services and Supplies",289749,403074,403074,388902,388902,-14172
+20,/,"City Attorney",Admin,Property,1863,8934,8934,13750,13750,4816
+35,/,"City Clerk",Admin,"Employee Services",982561,989435,989434,1042292,1245675,256241
+36,/,"City Clerk",Admin,"Labor/Supply Offset",928,3000,3000,3000,4000,1000
+37,/,"City Clerk",Admin,"Other Services and Supplies",486727,418698,418698,392698,502727,84029
+38,/,"City Clerk",Admin,Property,20309,16000,16000,11000,11000,-5000
+51,/,"City Manager",Admin,"Employee Services",2318092,2390515,2390515,1943619,2050088,-340427
+52,/,"City Manager",Admin,"Labor/Supply Offset",-59158,-20894,-20894,4056,4056,24950
+53,/,"City Manager",Admin,"Other Services and Supplies",669291,510373,555900,554395,554395,-1505
+54,/,"City Manager",Admin,Property,8534,16826,16826,16826,16826,0
+75,/,"City Treasurer",Admin,"Employee Services",1660321,1682430,1682431,1735349,1668288,-14143
+76,/,"City Treasurer",Admin,"Labor/Supply Offset",-26890,350,350,350,350,0
+77,/,"City Treasurer",Admin,"Other Services and Supplies",409508,393007,393007,426467,426467,33460
+78,/,"City Treasurer",Admin,Property,6341,2000,2000,2000,2000,0
+91,Manager,"Community Development",Operations,"Employee Services",17780086,16980188,16980188,16957617,17448426,468238
+92,Manager,"Community Development",Operations,"Labor/Supply Offset",-628877,-1270361,-1270361,-1206861,-1205361,65000
+93,Manager,"Community Development",Operations,"Other Services and Supplies",2562515,3687410,3677111,3243272,3589772,-87339
+94,Manager,"Community Development",Operations,Property,282058,88445,88445,90445,90445,2000
+119,Manager,"Convention Culture & Leisure",Operations,"Debt Service",704469,604468,604468,1239112,1239112,634644
+120,Manager,"Convention Culture & Leisure",Operations,"Employee Services",11563102,13521065,13548217,10249715,10273172,-3275045
+121,Manager,"Convention Culture & Leisure",Operations,"Labor/Supply Offset",1193318,468124,468124,534991,534991,66867
+122,Manager,"Convention Culture & Leisure",Operations,"Operating Transfers",1866405,1674500,1774500,1700500,1700500,-74000
+123,Manager,"Convention Culture & Leisure",Operations,"Other Services and Supplies",9643981,9916044,9912394,7871094,7883338,-2029056
+124,Manager,"Convention Culture & Leisure",Operations,Property,85233,472815,470271,145500,145500,-324771
+171,Manager,"Economic Development",Operations,"Employee Services",2087868,1669147,1669147,1393234,1391183,-277964
+172,Manager,"Economic Development",Operations,"Labor/Supply Offset",31979,2856,2856,2856,2856,0
+173,Manager,"Economic Development",Operations,"Operating Transfers",-496553,0,0,0,0,0
+174,Manager,"Economic Development",Operations,"Other Services and Supplies",1757592,1481466,1481466,1481374,1481374,-92
+175,Manager,"Economic Development",Operations,Property,44493,2000,2000,2000,2000,0
+191,Manager,Finance,Support,"Employee Services",5953263,6271760,6271760,6424244,6626340,354580
+192,Manager,Finance,Support,"Labor/Supply Offset",-184474,-1034632,-1034632,-1034632,-1034632,0
+193,Manager,Finance,Support,"Other Services and Supplies",2040378,2287950,2269265,2118893,2118893,-150372
+194,Manager,Finance,Support,Property,8060,17000,17000,17000,17000,0
+227,Manager,Fire,Operations,"Debt Service",420730,422865,422865,419144,419144,-3721
+228,Manager,Fire,Operations,"Employee Services",86198544,87824506,88824509,80257824,85298329,-3526180
+229,Manager,Fire,Operations,"Labor/Supply Offset",-576721,-3834660,-3834660,-447970,-3200895,633765
+230,Manager,Fire,Operations,"Operating Transfers",5304,0,0,0,0,0
+231,Manager,Fire,Operations,"Other Services and Supplies",9644146,10147322,10147322,10338461,9991961,-155361
+232,Manager,Fire,Operations,Property,501366,1396843,1263213,1562478,1263213,0
+243,Manager,"General Services",Support,"Debt Service",-420730,-422865,-422865,-419144,-419144,3721
+244,Manager,"General Services",Support,"Employee Services",20395003,20120577,20120577,33205130,33359680,13239103
+245,Manager,"General Services",Support,"Labor/Supply Offset",-4809125,-4168634,-4168634,-1093578,-1093578,3075056
+246,Manager,"General Services",Support,"Operating Transfers",468036,0,0,6811000,6811000,6811000
+247,Manager,"General Services",Support,"Other Services and Supplies",28852108,25213573,25244955,49768606,50038606,24793651
+248,Manager,"General Services",Support,Property,11751391,13843690,13784686,19798913,19798913,6014227
+279,Manager,"Human Resources",Support,Contingency,0,0,-27620,0,0,27620
+280,Manager,"Human Resources",Support,"Employee Services",8928005,7181022,7181020,7344143,7289204,108184
+281,Manager,"Human Resources",Support,"Labor/Supply Offset",2621665,2591513,2591513,3316175,3316175,724662
+282,Manager,"Human Resources",Support,"Operating Transfers",53650,0,0,0,0,0
+283,Manager,"Human Resources",Support,"Other Services and Supplies",21707228,17517161,17578394,17350772,17350772,-227622
+284,Manager,"Human Resources",Support,Property,14922,48606,48606,48606,48606,0
+315,Manager,"Information Technology",Support,"Employee Services",6569562,6149041,6149042,6071946,6048580,-100462
+316,Manager,"Information Technology",Support,"Labor/Supply Offset",286,0,0,0,0,0
+317,Manager,"Information Technology",Support,"Other Services and Supplies",1392160,1641545,1641545,866978,866978,-774567
+318,Manager,"Information Technology",Support,Property,95112,397123,297123,392213,392213,95090
+343,Manager,"Parks and Recreation",Operations,"Debt Service",584734,40000,40000,20000,20000,-20000
+344,Manager,"Parks and Recreation",Operations,"Employee Services",32173757,26493744,26748651,26523427,26624471,-124180
+345,Manager,"Parks and Recreation",Operations,"Labor/Supply Offset",-3959261,-4195698,-4021496,-4068027,-3168962,852534
+346,Manager,"Parks and Recreation",Operations,"Other Services and Supplies",9470003,6836253,8512655,9259764,9370886,858231
+347,Manager,"Parks and Recreation",Operations,Property,518527,490013,157589,811477,142589,-15000
+379,Manager,Police,Operations,"Debt Service",4825,0,0,0,0,0
+380,Manager,Police,Operations,"Employee Services",123865083,116614810,117513320,121393874,121819689,4306369
+381,Manager,Police,Operations,"Labor/Supply Offset",-12289018,-11768192,-13218192,-8778695,-8778695,4439497
+382,Manager,Police,Operations,"Operating Transfers",601776,0,6099,1422379,1422379,1416280
+383,Manager,Police,Operations,"Other Services and Supplies",9829567,9712495,9714445,9906701,9906701,192256
+384,Manager,Police,Operations,Property,1220860,2303248,186839,2874796,186839,0
+403,Manager,"Public Works",Operations,"Debt Service",501308,503517,503517,408518,408518,-94999
+404,Manager,"Public Works",Operations,"Employee Services",33102993,35606430,35606425,35891317,36411111,804686
+405,Manager,"Public Works",Operations,"Labor/Supply Offset",-16645572,-15993042,-15993042,-14847417,-14847417,1145625
+406,Manager,"Public Works",Operations,"Operating Transfers",2029406,1833700,1833700,1849000,1849000,15300
+407,Manager,"Public Works",Operations,"Other Services and Supplies",21120482,22808050,22853630,23453668,23453668,600038
+408,Manager,"Public Works",Operations,Property,330679,965839,435163,520880,520880,85717
+439,Manager,Utilities,Operations,"Debt Service",1099692,0,0,0,0,0
+440,Manager,Utilities,Operations,"Employee Services",65425531,68744945,68690447,51284582,51264212,-17426235
+441,Manager,Utilities,Operations,"Labor/Supply Offset",2493955,5042575,5042575,2642354,2642354,-2400221
+442,Manager,Utilities,Operations,"Operating Transfers",21081522,20533200,20533200,15693416,15693416,-4839784
+443,Manager,Utilities,Operations,"Other Services and Supplies",46872753,60720693,55371155,42885663,42885663,-12485492
+444,Manager,Utilities,Operations,Property,7637691,9008498,3104109,3228412,3228412,124303
