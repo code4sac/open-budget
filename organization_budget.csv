@@ -1,0 +1,83 @@
+iddenormalize_budget,org_path,dep,org_clas,organization_budget,previousy_actual,lasty_approved,lasty_amended,thisy_approved,thisy_amended,change_lastthis_amd
+11,/,"Mayor Council",Admin,"Independent Budget Analyst",0,0,1,0,0,-1
+12,/,"Mayor Council",Admin,"Mayor Council",3529739,3784125,4687174,3672936,3400001,-1287173
+13,/,"Mayor Council",Admin,"Office of the City Auditor",437705,631460,631461,513402,530402,-101059
+31,/,"City Attorney",Admin,"City Attorney",6299496,6341217,6341217,6246220,6371436,30219
+32,/,"City Attorney",Admin,Litigation,83282,100000,100000,100000,100000,0
+45,/,"City Clerk",Admin,"City Clerk",1153679,1255288,1255287,1277145,1262390,7103
+46,/,"City Clerk",Admin,Elections,336845,171845,171845,171845,171845,0
+47,/,"City Clerk",Admin,"Mayor/Council Operations",0,0,0,0,329166,329166
+61,/,"City Manager",Admin,"Office of Emergency Planning",271387,315911,315912,0,0,-315912
+62,/,"City Manager",Admin,"Office of Government Affairs",549771,634596,708805,597587,705637,-3168
+63,/,"City Manager",Admin,"Office of the City Manager",1944083,1758988,1747806,1752727,1751147,3342
+64,/,"City Manager",Admin,"Office of Youth Development",37,0,0,0,0,0
+65,/,"City Manager",Admin,"Public Safety Accountability",171481,187325,169824,168582,168582,-1242
+89,/,"City Treasurer",Admin,"City Treasurer",2049279,2077787,2077788,2164166,2097105,19317
+105,Manager,"Community Development",Operations,Administration,3285457,3240539,3240539,2026147,2053355,-1187184
+106,Manager,"Community Development",Operations,Building,3751272,3716619,3716618,4081403,4218458,501840
+107,Manager,"Community Development",Operations,"Code Enforcement",7873011,7875859,7784757,8099372,8622587,837830
+108,Manager,"Community Development",Operations,"Customer Service",901199,905957,997060,1025860,997772,712
+109,Manager,"Community Development",Operations,Planning,4184843,3746709,3736409,3851691,4031111,294702
+141,Manager,"Convention Culture & Leisure",Operations,"CCL Administration",1458727,1672674,1635574,1632138,1659579,24005
+142,Manager,"Convention Culture & Leisure",Operations,"Convention Center Complex",11249637,12237459,12337461,12476947,12438386,100925
+143,Manager,"Convention Culture & Leisure",Operations,"Crocker Art Museum",1924517,1787248,1800836,1705486,1777260,-23576
+144,Manager,"Convention Culture & Leisure",Operations,"Discovery Museum Science Cntr",243822,238541,238541,238541,238541,0
+145,Manager,"Convention Culture & Leisure",Operations,"Fairytale Town",73925,62245,62245,62245,62245,0
+146,Manager,"Convention Culture & Leisure",Operations,Golf,4971992,5914861,5914858,214443,208411,-5706447
+147,Manager,"Convention Culture & Leisure",Operations,"Metro Arts Commission",588352,422108,399953,409361,394499,-5454
+148,Manager,"Convention Culture & Leisure",Operations,"Old City Cemetery",90772,108566,108566,121958,120629,12063
+149,Manager,"Convention Culture & Leisure",Operations,"Old Sacramento",1260426,1328305,1330676,1362569,1349096,18420
+150,Manager,"Convention Culture & Leisure",Operations,"Sacramento Archives",534626,407713,407712,409389,414162,6450
+151,Manager,"Convention Culture & Leisure",Operations,"Sacramento History Museum",236909,236733,236733,236733,236733,0
+152,Manager,"Convention Culture & Leisure",Operations,"Sacramento Marina",1625418,1671190,1735445,2315886,2304069,568624
+153,Manager,"Convention Culture & Leisure",Operations,"Sacramento Zoo",797386,569374,569374,555215,573005,3631
+185,Manager,"Economic Development",Operations,Administration,-384789,75701,75700,221683,220717,145017
+186,Manager,"Economic Development",Operations,"Citywide Development",2733279,2293930,2293930,2043869,1965281,-328649
+187,Manager,"Economic Development",Operations,"Downtown Development",1076889,785839,785839,613912,691415,-94424
+213,Manager,Finance,Support,Accounting,3135418,3439157,3420473,3294929,3542923,122450
+214,Manager,Finance,Support,"Budget Office",732469,968936,968936,1011699,987790,18854
+215,Manager,Finance,Support,"Finance Administration",263147,403046,403045,403443,402539,-506
+216,Manager,Finance,Support,Revenue,3686192,2730939,2730939,2815434,2794349,63410
+237,Manager,Fire,Operations,"Office of Admin. Services",14346362,14047304,13916276,13176093,13760256,-156020
+238,Manager,Fire,Operations,"Office of Operations",80619089,80380649,81378047,77399532,78484516,-2893531
+239,Manager,Fire,Operations,"Office of the Fire Chief",1227918,1528923,1528926,1554312,1526980,-1946
+265,Manager,"General Services",Support,311,1700894,1697436,1697434,1759856,1757534,60100
+266,Manager,"General Services",Support,"Animal Care Services",3261326,2927171,2917879,3154603,3136008,218129
+267,Manager,"General Services",Support,"Facilities & Real Prop Mgmt",14538057,14008325,13989996,13152135,13277914,-712082
+268,Manager,"General Services",Support,"Fleet Management",35019537,34367934,34367935,36789989,36809457,2441522
+269,Manager,"General Services",Support,"Office of the Director",1119397,1007336,1007336,1106002,1129427,122091
+270,Manager,"General Services",Support,"Procurement Services",597472,578140,578139,548081,531962,-46177
+271,Manager,"General Services",Support,"Solid Waste and Recycling",0,0,0,51560261,51853175,51853175
+301,Manager,"Human Resources",Support,"HR Administration",2794409,2750820,2750820,2804061,2811633,60813
+302,Manager,"Human Resources",Support,"Labor Relations",1085239,800258,861491,831681,802395,-59096
+303,Manager,"Human Resources",Support,"Risk Management",27412745,21460804,21433183,22011898,21928602,495419
+304,Manager,"Human Resources",Support,"Workers' Compensation",2033078,2326420,2326419,2412057,2462127,135708
+329,Manager,"Information Technology",Support,"Citywide IT Systems - Division",0,1328703,1228703,531195,531195,-697508
+330,Manager,"Information Technology",Support,"Consolidated IT Billing",-866902,-510882,-510882,-510867,-510867,15
+331,Manager,"Information Technology",Support,"Enterprise Business Sys - Division",0,1326358,1326359,1351456,1285376,-40983
+332,Manager,"Information Technology",Support,"Geographic Information Systems",324380,484881,484881,547954,527608,42727
+333,Manager,"Information Technology",Support,"IT Customer Service -Division",0,776532,776531,825949,807470,30939
+334,Manager,"Information Technology",Support,"Technical Support Services Divisio",3541169,2004570,2004570,1958615,1987153,-17417
+335,Manager,"Information Technology",Support,"Technology Administration Division",2033504,1984339,1984339,1812254,1905997,-78342
+365,Manager,"Parks and Recreation",Operations,"Administrative Services",1370272,1160878,1255210,1287434,1257199,1989
+366,Manager,"Parks and Recreation",Operations,"Children & Community Rec",19915573,14625237,14650237,14020438,14255086,-395151
+367,Manager,"Parks and Recreation",Operations,"Park Maintenance Services",8695086,7962251,9085067,10474837,9795367,710300
+368,Manager,"Parks and Recreation",Operations,"Park Planning and Development",241772,-667580,-647580,-779399,-60214,587366
+369,Manager,"Parks and Recreation",Operations,"Recreation Operations",2794413,2341613,2350845,2389872,2425476,74631
+370,Manager,"Parks and Recreation",Operations,"Teens & Community Recreation",5770643,4241914,4743620,5153459,5316070,572450
+389,Manager,Police,Operations,"Office of Field Services",61468239,60291544,60291544,62839449,62726538,2434994
+390,Manager,Police,Operations,"Office of Investigations",35977452,31601727,29478373,34802622,32147601,2669228
+391,Manager,Police,Operations,"Office of Operational Services",17650004,15770150,15683653,20806326,20968207,5284554
+392,Manager,Police,Operations,"Office of the Chief",8137397,9198940,8748941,8370657,8714567,-34374
+425,Manager,"Public Works",Operations,"Engineering Services",-928487,-519010,-519014,-232593,56608,575622
+426,Manager,"Public Works",Operations,"Maintenance Services Division",17294980,20071543,19836558,13300259,13121696,-6714862
+427,Manager,"Public Works",Operations,"Office Of The Director",1565079,1625124,1625124,1699973,1771740,146616
+428,Manager,"Public Works",Operations,"Parking Services",16840877,18386990,18233365,18814807,18755738,522373
+429,Manager,"Public Works",Operations,"Transportation Division",1687261,1437222,1420222,8843992,8871162,7450940
+430,Manager,"Public Works",Operations,"Urban Forestry",3979586,4722626,4643138,4849528,5218816,575678
+477,Manager,Utilities,Operations,"Business Services",4943301,5721234,5721238,5875425,5935156,213918
+478,Manager,Utilities,Operations,"Engineering Services",5684431,7396868,7326865,6464253,6419893,-906972
+479,Manager,Utilities,Operations,"Field Services",25325008,29052259,27834985,33067369,33030296,5195311
+480,Manager,Utilities,Operations,"Office of the Director",44724586,53141911,47984227,40478795,40650811,-7333416
+481,Manager,Utilities,Operations,"Plant Services",26834598,29094478,28952132,29848585,29677900,725768
+482,Manager,Utilities,Operations,"Solid Waste Services",37099221,39643160,34922039,0,0,-34922039
